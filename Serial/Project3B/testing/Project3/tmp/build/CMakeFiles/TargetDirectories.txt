@@ -1,0 +1,4 @@
+/Users/ajpt/Documents/School/PHYS 7411 - Computational/dev/Project-3/build/CMakeFiles/project3.dir
+/Users/ajpt/Documents/School/PHYS 7411 - Computational/dev/Project-3/build/CMakeFiles/main.dir
+/Users/ajpt/Documents/School/PHYS 7411 - Computational/dev/Project-3/build/CMakeFiles/edit_cache.dir
+/Users/ajpt/Documents/School/PHYS 7411 - Computational/dev/Project-3/build/CMakeFiles/rebuild_cache.dir

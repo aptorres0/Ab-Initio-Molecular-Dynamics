@@ -1,0 +1,4 @@
+/Users/ajpt/School/Project3/build/CMakeFiles/project3.dir
+/Users/ajpt/School/Project3/build/CMakeFiles/main.dir
+/Users/ajpt/School/Project3/build/CMakeFiles/edit_cache.dir
+/Users/ajpt/School/Project3/build/CMakeFiles/rebuild_cache.dir

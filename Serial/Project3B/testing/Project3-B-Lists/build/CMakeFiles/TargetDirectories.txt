@@ -1,0 +1,4 @@
+/Users/ajpt/School/Project3-B-Lists/build/CMakeFiles/project3.dir
+/Users/ajpt/School/Project3-B-Lists/build/CMakeFiles/main.dir
+/Users/ajpt/School/Project3-B-Lists/build/CMakeFiles/edit_cache.dir
+/Users/ajpt/School/Project3-B-Lists/build/CMakeFiles/rebuild_cache.dir
